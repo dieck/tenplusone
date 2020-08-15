@@ -1,0 +1,22 @@
+## Interface: 11304
+## Title: TenPlusOne
+## Notes: Addon to manage 10+1 raids
+## Author: dieck
+## Version: alpha1
+## SavedVariables: TenPlusOneDB
+
+
+embeds.xml
+
+locale-enUS.lua
+locale-deDE.lua
+
+tenplusone.lua
+
+bids.lua
+core.lua
+
+
+# config.lua
+# loot.lua
+
